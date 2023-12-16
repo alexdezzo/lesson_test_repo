@@ -33,3 +33,9 @@
 > Оформление цитатой
 последовательных строк
 внутри одного параграфа
+
+# Подключение к репозитории Github
+```
+git remote add origin https://github.com/you_acc/yourep.git
+git branch -M main
+git push -u origin main
