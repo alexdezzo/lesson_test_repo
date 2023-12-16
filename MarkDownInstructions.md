@@ -39,10 +39,11 @@
 git remote add origin https://github.com/you_acc/yourep.git
 git branch -M main
 git push -u origin main
-
+``````
 # Добавили текст через браузер
-```
-echo "# testrep" >> README.md
+## Создание нового репозитория в командной строке
+
+```echo "# testrep" >> README.md
 git init
 git add README.md
 git commit -m "first commit"
